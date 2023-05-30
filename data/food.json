@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "food_image": "",
+        "food_name": "Pasta Carbonara",
+        "food_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful."
+    },
+    {
+        "id": 2,
+        "food_image": "",
+        "food_name": "Chicken Tikka Masala",
+        "food_description": "Chicken Tikka Masala is a popular Indian dish consisting of marinated grilled chicken chunks in a spiced tomato-based sauce. It is served with rice or naan bread."
+    },
+    {
+        "id": 3,
+        "food_image": "",
+        "food_name": "Sushi Roll",
+        "food_description": "Sushi Roll is a Japanese delicacy made with vinegared rice, seaweed, and various fillings such as fresh fish, vegetables, or cooked ingredients. It is served with soy sauce and wasabi."
+    },
+    {
+        "id": 4,
+        "food_image": "",
+        "food_name": "Pizza Margherita",
+        "food_description": "Pizza Margherita is a traditional Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and olive oil. It is a classic favorite among pizza lovers."
+    },
+    {
+        "id": 5,
+        "food_image": "",
+        "food_name": "Beef Tacos",
+        "food_description": "Beef Tacos are a Mexican delight made with seasoned ground beef, crispy taco shells, and a variety of toppings such as lettuce, cheese, salsa, and guacamole."
+    },
+    {
+        "id": 6,
+        "food_image": "",
+        "food_name": "Chocolate Brownie",
+        "food_description": "Chocolate Brownie is a decadent dessert made with rich chocolate, butter, sugar, eggs, and flour. It is moist, fudgy, and perfect for chocolate lovers."
+    }
+]

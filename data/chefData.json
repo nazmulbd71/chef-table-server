@@ -1,0 +1,178 @@
+[
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "id": 1,
+        "chef_name": "John Smith",
+        "title": "Senior Chef",
+        "years_of_experience": 10,
+        "likes": 5000,
+        "number_of_recipes": 100,
+        "description": "John Smith is an experienced chef with 10 years of culinary expertise. He has garnered 5000 likes for his delicious creations and has curated 100 unique recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Roasted Chicken",
+                "id": 20
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Pasta Carbonara",
+                "id": 30
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Berry Cheesecake",
+                "id": 40
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "Jane Doe",
+        "title": "Chef Of Head",
+        "id": 2,
+        "years_of_experience": 8,
+        "likes": 3500,
+        "number_of_recipes": 75,
+        "description": "Jane Doe, a talented chef, has honed her skills for 8 years. Her culinary creations have garnered 3500 likes and she has crafted 75 delightful recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1583953623787-ada99d338235?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHN0ZWFrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Lemon Garlic Shrimp",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 50
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Chocolate Lava Cake",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 60
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Mushroom Risotto",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 70
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "Michael Johnson",
+        "title": "Junior Chef",
+        "years_of_experience": 15,
+        "id": 3,
+        "likes": 8000,
+        "number_of_recipes": 150,
+        "description": "Michael Johnson, a master chef with 15 years of experience, has gained recognition for his exceptional culinary talent. He has received 8000 likes and has created 150 exquisite recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1633436375795-12b3b339712f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHN0ZWFrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Grilled Salmon",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 80
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Tiramisu",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 90
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Chicken Parmesan",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 91
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNoZWZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "Emily Wilson",
+        "years_of_experience": 5,
+        "id": 4,
+        "likes": 2000,
+        "number_of_recipes": 50,
+        "description": "Emily Wilson, a rising star in the culinary world, has accumulated 5 years of experience. Her creations have garnered 2000 likes and she has crafted 50 delectable recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://media.istockphoto.com/id/1408374876/photo/oatmeal-porridge-bowl-with-berry-fruits-in-female-hands.jpg?s=612x612&w=0&k=20&c=t-nDA76Z8G7aiTw4O6ET55yn-YXj8iA7hFJCkkJzaPw=",
+                "recipe_name": "Caprese Salad",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 92
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3RlYWt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Blueberry Muffins",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 93
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RlYWt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Caramelized Onion Soup",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 94
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "David Thompson",
+        "title": "Senior Chef",
+        "years_of_experience": 12,
+        "id": 5,
+        "likes": 6000,
+        "number_of_recipes": 120,
+        "description": "David Thompson, an innovative chef, has 12 years of experience in the culinary arts. He has received 6000 likes for his unique creations and has curated 120 exceptional recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3RlYWt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Braised Beef Short Ribs",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 95
+            },
+            {
+                "recipe_image": "https://media.istockphoto.com/id/1398349488/photo/amala-and-ewedu.jpg?s=612x612&w=0&k=20&c=-DTj5xJ2tCCTiLj4iTXi8n1iTa23yjvQchmPxt09V4c=",
+                "recipe_name": "Crispy Fried Chicken",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 96
+            },
+            {
+                "recipe_image": "https://media.istockphoto.com/id/1376132506/photo/lacquered-salmon.jpg?s=612x612&w=0&k=20&c=Q46U-Ogf4OZm8QHOcDw_pZvx57iFTZU9K97ZkLKIWA8=",
+                "recipe_name": "Mango Sorbet",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 97
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "chef_name": "Sophia Anderson",
+        "title": "Senior Chef",
+        "years_of_experience": 6,
+        "id": 6,
+        "likes": 4000,
+        "number_of_recipes": 90,
+        "description": "Sophia Anderson, a creative chef, has honed her skills for 6 years. She has garnered 4000 likes for her inventive creations and has crafted 90 delicious recipes.",
+        "recipes": [
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1588690793273-4d86028401f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHN0ZWFrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Garlic Butter Steak",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 98
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1516901121982-4ba280115a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBhc3RhJTIwcmVjaXBlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Banana Bread",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 99
+            },
+            {
+                "recipe_image": "https://images.unsplash.com/photo-1626202375382-cfefecd3a3d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBpenphJTIwcmVjaXBlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "recipe_name": "Pesto Pasta",
+                "recipe_description": "Pasta Carbonara is a classic Italian dish made with spaghetti, eggs, pancetta, and Parmesan cheese. It is rich, creamy, and incredibly flavorful.",
+                "id": 100
+            }
+        ]
+    }
+]
